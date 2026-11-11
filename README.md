@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/capybara-river.svg" width="100%" alt="강물에 떠가는 카피바라와 'Let's take it easy today, too...' 문구가 있는 배너" />
+<img src="./capybara-river.svg" width="100%" alt="강물에 떠가는 카피바라와 'Let's take it easy today, too...' 문구가 있는 배너" />
 
 ### 🍊 안녕하세요, 최지연입니다
 
@@ -72,9 +72,8 @@ motto: "Let's take it easy today, too..." 🛶
 
 <div align="center">
 
-<!-- YOUR_GITHUB_ID 를 본인 깃허브 아이디로 바꿔주세요 -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&hide_border=true&bg_color=fff4e6&title_color=9a5b2c&icon_color=3f8fb5&text_color=6b4a32" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&hide_border=true&bg_color=fff4e6&title_color=9a5b2c&text_color=6b4a32" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jyjy8940&show_icons=true&hide_border=true&bg_color=fff4e6&title_color=9a5b2c&icon_color=3f8fb5&text_color=6b4a32" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyjy8940&layout=compact&hide_border=true&bg_color=fff4e6&title_color=9a5b2c&text_color=6b4a32" />
 
 </div>
 
