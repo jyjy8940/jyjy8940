@@ -72,8 +72,7 @@ motto: "Let's take it easy today, too..." 🛶
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jyjy8940&show_icons=true&hide_border=true&bg_color=fff4e6&title_color=9a5b2c&icon_color=3f8fb5&text_color=6b4a32" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyjy8940&layout=compact&hide_border=true&bg_color=fff4e6&title_color=9a5b2c&text_color=6b4a32" />
+<img src="https://streak-stats.demolab.com/?user=jyjy8940&hide_border=true&background=fff4e6&ring=3f8fb5&fire=ffb878&currStreakLabel=9a5b2c&sideLabels=9a5b2c&currStreakNum=6b4a32&sideNums=6b4a32&dates=8a6a52" alt="GitHub Streak" />
 
 </div>
 
